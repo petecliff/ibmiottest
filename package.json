@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/petecliff/ibmiottest/issues"
   },
-  "homepage": "https://github.com/petecliff/ibmiottest#readme"
+  "homepage": "https://github.com/petecliff/ibmiottest#readme",
+  "dependencies": {
+    "mqtt": "^2.15.3"
+  }
 }
