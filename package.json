@@ -18,5 +18,8 @@
   "homepage": "https://github.com/petecliff/ibmiottest#readme",
   "dependencies": {
     "mqtt": "^2.15.3"
+  },
+  "devDependencies": {
+    "prettier": "1.10.2"
   }
 }
